@@ -1,3 +1,4 @@
 this is a line in file 3
 this is a 2nd line in file 3
 this is a line added by manager in remote
+this is a 2nd line created in remote  
